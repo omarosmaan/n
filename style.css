@@ -75,7 +75,7 @@ section {
     color: #fff;
     font-size: 2em;
     font-weight: 700;
-    letter-spacing: 1px;
+    /*letter-spacing: 1px;*/
     margin-top: 10px;
     margin-bottom: 30px;
 }
